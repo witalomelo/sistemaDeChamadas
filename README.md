@@ -2,9 +2,10 @@
 
 ## Recursos Necessarios:
 
-### `npm start`
+### `npm install react-router-dom`
+### `npm install firebase`
 
-**Note:**
+**Notes:**
 </br>
 Projeto realizado com instrução do professor Matheus Fraga
 
